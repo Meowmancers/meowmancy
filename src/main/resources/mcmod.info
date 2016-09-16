@@ -1,0 +1,16 @@
+[
+{
+  "modid": "meowmancy",
+  "name": "Meowmancy",
+  "description": "A mod about the magic of cats",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jacobeta","squirrel_killer-"],
+  "credits": "The Forge and FML guys for Forge, Mojang for Mojang, and the StrifeCraft community for anytime we needed to bug them",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
